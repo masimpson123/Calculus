@@ -1,4 +1,3 @@
-In these two sketches, I track your cursor and have some fun with trigonometry.
+In this sketch, I recreate the core interaction patterns as found on a high end piece of Ultrasound Equipment. I implement HTML, CSS, Javascript, and trigonometry.
 
-https://rawgit.com/masimpson123/Calculus/master/MouseTracker_3.html
-https://rawgit.com/masimpson123/Calculus/master/MouseTracker_4.html
+http://www.michaelsimpsondesign.com/codeSketches/mouseTracker.html
